@@ -10,12 +10,7 @@
 
 - 💬 Ask me about **programming language, hardware anything.**
 
-- 📫 How to reach me **eminkl.2506@gmail.com**
-
-<p align="center">
-<a href="https://drive.google.com/file/d/1NAjPnI2-nJhTJiLXYMJFCROAS5gvaSQC/view?usp=sharing" target="_blank" rel="noreferrer"> <img  align="center" src="https://github.com/EminKartal/EminKartal/blob/main/cv.png" alt="android" width="175" height="225"/> </a>
-</p>
-
+- 📫 How to reach me **eminkrtl25@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
