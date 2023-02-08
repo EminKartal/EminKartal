@@ -12,9 +12,6 @@
 
 - 📫 How to reach me **eminkl.2506@gmail.com**
 
-<h1 align="center"> CV </h1>
-
-
 <p align="center">
 <a href="https://drive.google.com/file/d/1NAjPnI2-nJhTJiLXYMJFCROAS5gvaSQC/view?usp=sharing" target="_blank" rel="noreferrer"> <img  align="center" src="https://github.com/EminKartal/EminKartal/blob/main/cv.png" alt="android" width="175" height="225"/> </a>
 </p>
